@@ -1,6 +1,6 @@
 👋 Hi, I’m @marcinstl
 
-**Fullstack developer | Software Engineer**
+**Fullstack Developer | Software Engineer**
 
 I specialize in web app development. My main stack is Angular | .NET | MS SQL | Azure 
 
