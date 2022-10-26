@@ -1,5 +1,9 @@
 👋 Hi, I’m @marcinstl
 
+**Fullstack developer | Software Engineer**
+
+I specialize in web app development. My main stack is Angular | .NET | MS SQL | Azure 
+
 ## Skills
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
